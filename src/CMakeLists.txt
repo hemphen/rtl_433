@@ -347,6 +347,7 @@ add_library(r_433 STATIC
     devices/proflame2.c
     devices/prologue.c
     devices/proove.c
+    devices/purmo_e3.c
     devices/quhwa.c
     devices/quinetic.c
     devices/radiohead_ask.c
